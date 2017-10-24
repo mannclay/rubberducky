@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+
   <head>
 
     <meta charset="utf-8">
@@ -15,14 +15,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/modern-business.css" rel="stylesheet">
-    
 
-
-   <style>
-      .roboto-text {
-	      font-family: Roboto;
-      }
-   </style>
   </head>
 
   <body>
@@ -45,9 +38,6 @@
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
-	    <li class="nav-item">
-	    <a class="nav-link" href="Negazone.html">THE NEGAZONE</a>
-	    </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Portfolio
@@ -125,7 +115,18 @@
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="sr-only">Next</span>
         </a>
-      </div> </header> <!-- Page Content --> <div class="container"> <h1 class="my-4 roboto-text">Welcome to the best F'ing Webjam in the whole <a href="https://www.warnerbros.com/archive/spacejam/movie/jam.htm">world</a></h1> <!-- Marketing Icons Section --> <div class="row"> <div class="col-lg-4 mb-4">
+      </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <h1 class="my-4">Welcome to the best F'ing Webjam in the whole <a href="https://www.warnerbros.com/archive/spacejam/movie/jam.htm">world</a></h1>
+	
+
+      <!-- Marketing Icons Section -->
+      <div class="row">
+        <div class="col-lg-4 mb-4">
           <div class="card h-100">
             <h4 class="card-header">Card Title</h4>
             <div class="card-body">
@@ -162,18 +163,18 @@
       <!-- /.row -->
 
       <!-- Portfolio Section -->
-      <h2>Look At This Dope JAzZ</h2>
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PFLdqzRONJY" frameborder="0" allowfullscreen></iframe></div>
+      <h2>Portfolio Heading</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFLdqzRONJY" frameborder="0" allowfullscreen></iframe>
 
       <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="https://i.imgur.com/2Ci6mJ6.jpg" alt=""></a>
+            <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Project One</a>
               </h4>
-              <p class="card-text " style="color:#FF1493">Thug Rap</p>
+              <p class="card-text" style="color:#FF1493">Thug Rap</p>
             
 	   </div>
           </div>
@@ -185,10 +186,7 @@
               <h4 class="card-title">
                 <a href="#">Project Two</a>
               </h4>
-              <p class="card-text">I want to Fit
-	
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/QSRbw4vDzFY" frameborder="0" allowfullscreen></iframe></p>
-	      <button type="button" class="btn btn-danger">TO SPICY</button>
+              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
             </div>
           </div>
         </div>
@@ -200,8 +198,7 @@
                 <a href="#">Project Three</a>
               </h4>
               <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
-	      <button type="button" class="btn btn-success">Yeppo</button>
-	    </div>
+            </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
